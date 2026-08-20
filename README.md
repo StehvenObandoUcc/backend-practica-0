@@ -1,4 +1,5 @@
-#Framework Backend con Typescript 
+# Framework Backend con TypeScript
 
-##Practica 0
-Introducccion a Gitgit
+## Práctica 0
+
+### Introducción a Git y GitHub
